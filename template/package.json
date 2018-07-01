@@ -20,6 +20,7 @@
     "vue-hot-reload-api": "^2.3.0"
   },
   "dependencies": {
+    "material-design-icons-iconfont": "^3.0.3",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1",
     "vuetify": "^1.0.19"
