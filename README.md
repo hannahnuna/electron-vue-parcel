@@ -1,5 +1,5 @@
 # electron-vue-parcel
-electron-vue-template for my electron study proejct...
+electron-vue-template...
 
 ## Setup
 ```
