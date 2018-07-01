@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "electron-vue-template",
   "version": "1.0.0",
   "description": "electron parcel vue template",
   "main": "./src/main/index.js",
