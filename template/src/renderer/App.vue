@@ -19,4 +19,5 @@ export default {
 
 <style>
 @import url(vuetify/dist/vuetify.min.css);
+@import url(material-design-icons-iconfont/dist/material-design-icons.css);
 </style>
